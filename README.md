@@ -18,6 +18,9 @@
 
 
 # Repo Nav
+[MoonBit](moonbit.md)
+
+
 ## Julia Community
 [JuliaLang](https://github.com/JuliaLang), [JuliaCN](https://github.com/JuliaCN);
 [JuliaMath](https://github.com/JuliaMath), [JuliaCI](https://github.com/JuliaCI)
