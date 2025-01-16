@@ -20,3 +20,8 @@ Julia stdlibs outside the Julialang organisation
 - [JuliaSparse/SparseArrays.jl](https://github.com/JuliaSparse/SparseArrays.jl)
 - [JuliaCrypto/SHA.jl](https://github.com/JuliaCrypto/SHA.jl)
 - [Archived] [JuliaSparse/SuiteSparse.jl](https://github.com/JuliaSparse/SuiteSparse.jl)
+
+## External Links
+
+- [Julia Memo](https://github.com/inkydragon/JuliaMemo): julia 相关的笔记与备忘.  
+    Random note and memo about Julia.
