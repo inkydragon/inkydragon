@@ -20,5 +20,5 @@
 
 > Those link works for me, feel free to look around.
 
-[Julia](julia.md) /
+[Julia](julia/nav.md) /
 [MoonBit](moonbit.md)
