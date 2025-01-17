@@ -11,7 +11,6 @@
 - 📫 How to reach me:
   - Ping me (`@inkydragon`) on github
   - `@cyhan` on [Julia Slack](https://julialang.org/slack/)
-  - `@woclass` on [Julia Discourse](https://discourse.julialang.org/) / [JuliaCN](https://discourse.juliacn.com/)
   - E-mailing me is OK, maybe for something serious.  
     HINT: I hide my email address in `git config user.email`.
 
