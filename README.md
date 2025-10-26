@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I'm currently maintaining Julia and its ecosystem.
+- 🔭 I'm currently making a11y game mod.
 <!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +10,6 @@
 - 😄 Pronouns: Chengyu HAN, `/ch-eh-ng UUU h-ah-n/`
 - 📫 How to reach me:
   - Ping me (`@inkydragon`) on github
-  - `@cyhan` on [Julia Slack](https://julialang.org/slack/)
   - E-mailing me is OK, maybe for something serious.  
     HINT: I hide my email address in `git config user.email`.
 
