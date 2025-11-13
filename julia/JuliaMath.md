@@ -18,7 +18,6 @@
     Direct (13)
     [![deps](https://juliahub.com/docs/General/ChangesOfVariables/stable/deps.svg)](https://juliahub.com/ui/Packages/General/ChangesOfVariables?t=2)
     [![version](https://juliahub.com/docs/General/ChangesOfVariables/stable/version.svg)](https://juliahub.com/ui/Packages/General/ChangesOfVariables)
-
 - [SpecialFunctions.jl](https://github.com/JuliaMath/SpecialFunctions.jl)
     Direct (463)
     [![deps](https://juliahub.com/docs/General/SpecialFunctions/stable/deps.svg)](https://juliahub.com/ui/Packages/General/SpecialFunctions?t=2)
@@ -69,7 +68,6 @@
     Direct (184)
     [![deps](https://juliahub.com/docs/General/QuadGK/stable/deps.svg)](https://juliahub.com/ui/Packages/General/QuadGK?t=2)
     [![version](https://juliahub.com/docs/General/QuadGK/stable/version.svg)](https://juliahub.com/ui/Packages/General/QuadGK)
-
 - [Primes.jl](https://github.com/JuliaMath/Primes.jl)
     [![deps](https://juliahub.com/docs/General/Primes/stable/deps.svg)](https://juliahub.com/ui/Packages/General/Primes?t=2)
     [![version](https://juliahub.com/docs/General/Primes/stable/version.svg)](https://juliahub.com/ui/Packages/General/Primes)
