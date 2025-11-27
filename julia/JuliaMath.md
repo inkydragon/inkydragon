@@ -38,7 +38,7 @@
     Direct (39)
     [![deps](https://juliahub.com/docs/General/InverseFunctions/stable/deps.svg)](https://juliahub.com/ui/Packages/General/InverseFunctions?t=2)
     [![version](https://juliahub.com/docs/General/InverseFunctions/stable/version.svg)](https://juliahub.com/ui/Packages/General/InverseFunctions)
-- 💀 (5y+) [Calculus.jl](https://github.com/JuliaMath/Calculus.jl)
+- [Calculus.jl](https://github.com/JuliaMath/Calculus.jl)
     Direct (38)
     [![deps](https://juliahub.com/docs/General/Calculus/stable/deps.svg)](https://juliahub.com/ui/Packages/General/Calculus?t=2)
     [![version](https://juliahub.com/docs/General/Calculus/stable/version.svg)](https://juliahub.com/ui/Packages/General/Calculus)
