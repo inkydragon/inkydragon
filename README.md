@@ -21,4 +21,4 @@
 [Julia](julia/nav.md) /
 [MoonBit](moonbit.md)
 
-[Math.libm](math/libm.md)
+[Math.libm](math/libm.md), [netlib](math/netlib.md)
