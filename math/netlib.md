@@ -1,7 +1,7 @@
 # Modern Netlib
 
-[Netlib Master Index](https://www.netlib.org/master/expanded_liblist.html)
-[Freely Available Software for Linear Algebra (August 2021)](https://docs.google.com/spreadsheets/d/11ESR3uucNvVKEoIcalP9gR7ApaOElLwmE5sAS-VRMOM/edit?gid=90156307#gid=90156307)
+- [Netlib Master Index](https://www.netlib.org/master/expanded_liblist.html)
+- [Freely Available Software for Linear Algebra (August 2021)](https://docs.google.com/spreadsheets/d/11ESR3uucNvVKEoIcalP9gR7ApaOElLwmE5sAS-VRMOM/edit?gid=90156307#gid=90156307)
 
 ## TODO
 
@@ -23,8 +23,7 @@
 - alliant: programs collected from Alliant users
 - `amos`: Bessel functions of complex argument and nonnegative order
   - https://github.com/scipy/xsf
-- `ampl`: linear and nonlinear programming
-  - https://ampl.com/
+- `ampl`: linear and nonlinear programming, https://ampl.com/
 - anl-reports: Reports from the MCS division at Argonne
 - apollo: programs collected from Apollo users
 - `arpack`: large-scale eigenvalue problems
@@ -77,7 +76,7 @@
 - `ddsv`: Linear Algebra Computations on Vector and Parallel Computers
 - dierckx (`FITPACK`): spline fitting routines for various kinds of data and geometries
   - https://github.com/perazz/fitpack
-  - (FITPACK in C)  https://github.com/scipy/scipy/blob/main/scipy/interpolate/src/dfitpack.h
+  - (Rewrite in C) [scipy/interpolate/src/dfitpack.h](https://github.com/scipy/scipy/blob/d92f54e6f606d43e5ceeb9a4dd3f157288883bb6/scipy/interpolate/src/dfitpack.h)
 - `diffpack`: removed;  Diffpack is now a commercial package
 - `domino`: multiple tasks to communicate and schedule local tasks for execution
 
@@ -168,18 +167,19 @@
 ## M
 
 - machines
-magic
-maspar
-math77
-mds
-microscope
+- magic
+- maspar
+- math77
+- mds
+- microscope
 - `minpack`:
   - https://github.com/fortran-lang/minpack
-  - (MINPACK in C)  https://github.com/scipy/scipy/blob/main/scipy/optimize/src/minpack.h
+  - (Rewrite in C)  [scipy/optimize/src/minpack.h](https://github.com/scipy/scipy/blob/d92f54e6f606d43e5ceeb9a4dd3f157288883bb6/scipy/optimize/src/minpack.h)
 - misc
-mpfun
-mpi
-mpicl
+- mpfun: multiple precision arithmetic
+- mpi: message passing interface draft standard.
+  - https://github.com/open-mpi/ompi
+- mpicl
 
 ## N
 
@@ -197,7 +197,7 @@ mpicl
   (LSODE, LSODES, LSODA, LSODAR, LSODPK, LSODKR, LSODI, LSOIBT, LSODIS)
   - https://github.com/Nicholaswogan/odepack
   - https://github.com/jacobwilliams/odepack
-  - (LSODA in C)    https://github.com/scipy/scipy/blob/main/scipy/integrate/src/lsoda.h
+  - (LSODA in C) [scipy/integrate/src/lsoda.h](https://github.com/scipy/scipy/blob/f77b58ae6f30e2249c5702d9879ede1c3cc503f4/scipy/integrate/src/lsoda.h)
 - `odrpack`: Orthogonal Distance Regression
   - https://github.com/HugoMVale/odrpack95
 - opt: nonlinear optimization and zero-finding
@@ -229,7 +229,7 @@ pvm3
 
 - `quadpack`: definite univariate integrals
   - https://github.com/jacobwilliams/quadpack
-  - (quadpack in C) https://github.com/scipy/scipy/blob/main/scipy/integrate/__quadpack.h
+  - (Rewrite in C) [scipy/integrate/__quadpack.h](https://github.com/scipy/scipy/blob/v1.17.0rc1/scipy/integrate/__quadpack.h)
 
 ## R
 
