@@ -48,11 +48,10 @@
   - https://github.com/OpenMathLib/OpenBLAS
   - https://github.com/flame/blis
 - blast: Communications of the BLAST mailing lists
-- `bmp`: Brent's multiple precision package
-  - [Algorithm 524: MP, a Fortran multiple-precision arithmetic package](https://maths-people.anu.edu.au/~brent/pub/pub043.html):  
-    "In general, we recommend the use of a more modern package, for example:
-    MPFR, David Bailey's MPFUN90, or ARPREC package (written in C++/Fortran 90)"
-
+- `bmp` (`MP`), Brent's multiple-precision arithmetic package.  
+    [In general, we recommend the use of a more modern package](https://maths-people.anu.edu.au/~brent/pub/pub043.html),
+  - [MPFR](https://www.mpfr.org/)
+  - [MPFUN](https://www.davidhbailey.com/dhbsoftware/) by David H. Bailey
 
 ## C
 
