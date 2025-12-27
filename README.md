@@ -18,7 +18,12 @@
 
 > Those link works for me, feel free to look around.
 
-[Julia](julia/nav.md) /
-[MoonBit](moonbit.md)
+[Julia][julia-nav] /
+[MoonBit][moonbit-nav]
 
-[Math.libm](math/libm.md), [netlib](math/netlib.md)
+[Math.libm][math-libm], [netlib][math-netlib]
+
+[julia-nav]:    https://github.com/inkydragon/inkydragon.github.io/blob/main/Julia/nav.md
+[moonbit-nav]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/proj/moonbit.md
+[math-libm]:    https://github.com/inkydragon/inkydragon.github.io/blob/main/math/libm.md
+[math-netlib]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/math/netlib.md
