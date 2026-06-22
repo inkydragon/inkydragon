@@ -23,7 +23,7 @@
 
 [Math.libm][math-libm], [netlib][math-netlib]
 
-[julia-nav]:    https://github.com/inkydragon/inkydragon.github.io/blob/main/Julia/nav.md
-[moonbit-nav]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/proj/moonbit.md
+[julia-nav]:    https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/proj/julia/index.md
+[moonbit-nav]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/archive/moonbit.md
 [math-libm]:    https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/proj/libm.md
-[math-netlib]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/proj/netlib.md
+[math-netlib]:  https://github.com/inkydragon/inkydragon.github.io/blob/main/memo/archive/netlib.md
